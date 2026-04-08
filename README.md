@@ -1,3 +1,4 @@
 # Angular_project
 Angular E-Commerce Project
-AUthor - Shilpa Datir
+AUthor - Shilpa Datir 
+i Developed project
